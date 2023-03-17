@@ -1,6 +1,6 @@
 [![MasterHead](https://www.phen-ai.com/U2fh8eCs/wp-content/uploads/2019/10/1_37ABKi4XeHkEWHxlF3LIog-1.gif)](https://amir4786.io)
 <h1 align="center">Hi 👋, I'm a Data Scientist Intern</h1>
-<h3 align="center">I am a Data enthusiast having one and a half months of internship experience from iNeuron with a proven ability to handle full stack machine learning and DVC pipelines. Hands-on experience leveraging machine learning and deep learning to solve challenging business problems.</h3>
+<h3 align="center">I am keen towards data science domain for more than 1.5 years having 6 months of internship experience, with a proven ability to handle full stack machine learning and DVC pipelines. Hands-on experience leveraging machine learning and deep learning models to solve challenging business problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
 - 🔭 I’m currently working on **iNeuron intelligence as an intern**
