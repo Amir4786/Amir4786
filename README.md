@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **iNeuron intelligence as an intern**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **AIOps/MLOps**
 
-- 👯 I’m looking to collaborate on **Deep Learning projects**
+- 👯 I’m looking for a job in **AI field, Data Science, Data Analytics**
 
-- 🤝 I’m looking for help with **Deployment and Video making**
+- 🤝 I’m looking for help with **NLP Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amir4786?tab=repositories](https://github.com/Amir4786?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Python, MySQL and PowerBI**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Python, MySQL and PowerBI**
 
 - 📫 How to reach me **er.a.khan47@gmail.com**
 
