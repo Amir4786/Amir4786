@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **er.a.khan47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lGG7sUhscwv4AljK3Cj6HGrfak4E4yA9/view?usp=sharing](https://drive.google.com/file/d/1lGG7sUhscwv4AljK3Cj6HGrfak4E4yA9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lLRKhknJp8T_zwkL_efaCKMJ85l0R4DG/view?usp=sharing](My Resume)
 
 - ⚡ Fun fact **I'm a wordie.**
 
