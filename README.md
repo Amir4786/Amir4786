@@ -3,11 +3,11 @@
 <h3 align="center">I am keen towards data science domain for more than 3 years having 2 years of experience as a Python Developer and 6 months of internship experience as a Data Scientist, with a proven ability to handle full stack machine learning and DVC pipelines. Hands-on experience leveraging machine learning and deep learning models to solve challenging business problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
-- 🔭 I’m currently working on **iNeuron intelligence as an intern**
+- 🔭 I’m currently working in **In2IT Technologies**
 
-- 🌱 I’m currently learning **AIOps/MLOps**
+- 🌱 I’m currently learning **Deep insights of Producy strategies**
 
-- 👯 I’m looking for a job in **AI field, Data Science, Data Analytics**
+- 👯 I’m looking for an opportunity in **AI field, Data Science, Data Analytics**
 
 - 🤝 I’m looking for help with **NLP Projects**
 
