@@ -1,6 +1,19 @@
 [![MasterHead](https://www.phen-ai.com/U2fh8eCs/wp-content/uploads/2019/10/1_37ABKi4XeHkEWHxlF3LIog-1.gif)](https://amir4786.io)
-<h1 align="center">Hi 👋, I'm a Data Anthusiast</h1>
-<h3 align="center">I am keen towards data science domain for more than 3 years having 2 years of experience as a Python Developer and 6 months of internship experience as a Data Scientist, with a proven ability to handle full stack machine learning and DVC pipelines. Hands-on experience leveraging machine learning and deep learning models to solve challenging business problems.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Hi there! I'm a data analyst with 2 years of hands-on experience in transforming raw data into strategic decisions. I specialize in:
+
+📊 Data Visualization: Proficient in Tableau, Power BI, and Matplotlib
+
+🧹 Data Cleaning & Wrangling: Skilled in Python (Pandas, NumPy), SQL
+
+📈 Analysis & Reporting: Strong background in business intelligence and KPI tracking
+
+🤖 Basic Machine Learning: Familiar with scikit-learn and regression/classification models
+
+🔧 Tools I use: Python, SQL, Excel, Jupyter, Git, Power BI, Tableau
+📁 I use this space to share projects, explore datasets, and collaborate on open-source analysis.
+
+Let’s connect and dive into the data together!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
 - 🔭 I’m currently working in **In2IT Technologies**
